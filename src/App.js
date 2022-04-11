@@ -7,7 +7,9 @@ function App() {
       <header className="App-header">
         <div class="justify-items-stretch">
             <div class="flex justify-center mb-8">
-              <img src="milvest.svg"></img>
+              <a href='https://milvest.com.br'>
+                <img src='milvest.svg'></img> 
+              </a>
             </div>
             <div class="flex justify-center mb-4">
               <Vesti nome="Tamires" link="https://wa.me/5511993703230">
