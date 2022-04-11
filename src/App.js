@@ -6,56 +6,22 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div class="justify-items-stretch">
-          {/* <div class="grid grid-cols-6 gap-4 place-items-center overflow-x-auto">
-            <div class="col-start-2 col-span-4 flex mb-4">
-              <img src="milvest.svg"></img>
-
-            </div>
-            <div class="col-start-1 col-end-7 pt-8">
-            <Vesti nome="Tamires"></Vesti>
-
-            </div>
-            <div class="col-start-1 col-end-7">
-            <Vesti nome="Brenda"></Vesti>
-
-            </div>
-            <div class="col-start-1 col-end-7 ">
-            <Vesti nome="Fran"></Vesti>
-
-            </div>
-            <div class="col-start-1 col-end-7 ">
-            <Vesti nome="Catálogo"></Vesti>
-
-            </div>
-
-          </div> */}
             <div class="flex justify-center mb-8">
               <img src="milvest.svg"></img>
-
             </div>
             <div class="flex justify-center mb-4">
-            <div class="flex items-center">
-            </div>
-            <Vesti nome="Tamires" link="https://wa.me/5511993703230">
-
-            </Vesti>
-
-
+              <Vesti nome="Tamires" link="https://wa.me/5511993703230">
+              </Vesti>
             </div>
             <div class="flex justify-center mb-4">
-            <Vesti nome="Brenda" link="https://wa.me/5511987067219"></Vesti>
-
+              <Vesti nome="Brenda" link="https://wa.me/5511987067219"></Vesti>
             </div>
             <div class="flex justify-center mb-4">
-            <Vesti nome="Fran" link="https://wa.me/5511987067140"></Vesti>
-
+              <Vesti nome="Fran" link="https://wa.me/5511987067140"></Vesti>
             </div>
             <div class="flex justify-center">
-            <Cata nome="Catálogo" link="https://milvest.vesti.mobi/"></Cata>
-
+              <Cata nome="Catálogo" link="https://milvest.vesti.mobi/"></Cata>
             </div>
-
-
           </div>
       </header>
     </div>
