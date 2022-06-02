@@ -12,11 +12,11 @@ function App() {
               </a>
             </div>
             <div class="flex justify-center mb-4">
-              <Vesti nome="Tamires" link="https://wa.me/5511993703230">
-              </Vesti>
+              <Vesti nome="Ketlen" link="https://wa.me/5511987067219"></Vesti>
             </div>
             <div class="flex justify-center mb-4">
-              <Vesti nome="Brenda" link="https://wa.me/5511987067219"></Vesti>
+              <Vesti nome="Tamires" link="https://wa.me/5511993703230">
+              </Vesti>
             </div>
             <div class="flex justify-center mb-4">
               <Vesti nome="Fran" link="https://wa.me/5511987067140"></Vesti>
