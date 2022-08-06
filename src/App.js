@@ -12,10 +12,10 @@ function App() {
               </a>
             </div>
             <div class="flex justify-center mb-4">
-              <Vesti nome="Ketlen" link="https://wa.me/5511993703230"></Vesti>
+              <Vesti nome="Millene" link="https://wa.me/5511993703230"></Vesti>
             </div>
             <div class="flex justify-center mb-4">
-              <Vesti nome="Tamires" link="https://wa.me/5511987067219">
+              <Vesti nome="Carol" link="https://wa.me/5511987067219">
               </Vesti>
             </div>
             <div class="flex justify-center mb-4">
